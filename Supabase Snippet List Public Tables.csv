@@ -1,0 +1,13 @@
+table_schema,table_name
+public,training_data
+public,training_assessments
+public,training_session
+public,goal
+public,performance_metric
+public,sma_athlete_users
+public,sma_readiness
+public,readiness_assessments
+public,training_sessions
+public,training_assessment
+public,athlete_users
+public,readiness_assessment
